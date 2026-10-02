@@ -1,0 +1,4 @@
+# Actual execution evidence should be added deliberately.
+# Keep generated/system files out of the repository.
+*.log
+.DS_Store
